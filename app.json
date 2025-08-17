@@ -1,5 +1,14 @@
 {
   "expo": {
+    "ios": {
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}
+
+  "expo": {
     "name": "Dog Speak Analyzer",
     "slug": "tarzana",
     "version": "1.0.0",
