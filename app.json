@@ -1,14 +1,5 @@
 {
   "expo": {
-    "ios": {
-      "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
-      }
-    }
-  }
-}
-
-  "expo": {
     "name": "Dog Speak Analyzer",
     "slug": "tarzana",
     "version": "1.0.0",
@@ -17,7 +8,15 @@
     "scheme": "dog-sound-analyze",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": false,
+    "ios": {{  "expo": {
     "ios": {
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}
+
       "supportsTablet": true,
       "bundleIdentifier": "com.tarzana.dogsoundanalyze"
     },
