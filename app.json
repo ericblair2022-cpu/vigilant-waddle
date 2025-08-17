@@ -10,7 +10,7 @@
     "newArchEnabled": false,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "Com.tarzana.tarzana"
+      "bundleIdentifier": "com.tarzana.dogsoundanalyze"
     },
     "android": {
       "adaptiveIcon": {
@@ -18,7 +18,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "Com.tarzana.tarzana"
+      "package": "com.tarzana.dogsoundanalyze"
     },
     "web": {
       "bundler": "metro",
@@ -43,7 +43,7 @@
     "runtimeVersion": {
       "policy": "sdkVersion"
     },
-    "owner": "Daniel Rieber",
+    "owner": "danielrieber",
     "extra": {
       "eas": {
         "projectId": "4ad18828-691a-4c63-916f-3b398a7fb056"
