@@ -8,17 +8,9 @@
     "scheme": "dog-sound-analyze",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": false,
-    "ios": {{  "expo": {
     "ios": {
-      "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
-      }
-    }
-  }
-}
-
       "supportsTablet": true,
-      "bundleIdentifier": "com.tarzana.dogsoundanalyze"
+      "bundleIdentifier": "Com.tarzana.dogsoundanalyze"
     },
     "android": {
       "adaptiveIcon": {
@@ -26,7 +18,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.tarzana.dogsoundanalyze"
+      "package": "Com.tarzana.dogsoundanalyze"
     },
     "web": {
       "bundler": "metro",
